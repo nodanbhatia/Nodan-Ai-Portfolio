@@ -54,7 +54,7 @@ I enjoy transforming **raw data into meaningful insights** and building **AI-pow
 
 <div align="center">
 
-<a href="[https://github.com/nodanbhatia/Nodan-Ai-Portfolio](https://nodan-bhatia-data-scientist-ai-ml-portfolio.ai.studio/)">
+<a href="https://nodan-bhatia-data-scientist-ai-ml-portfolio.ai.studio/">
 
 <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="45"/>
 
